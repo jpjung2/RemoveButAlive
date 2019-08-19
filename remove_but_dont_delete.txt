@@ -1,0 +1,5 @@
+In order to remove a directory or file from a git repo,
+simply run the git rm --cached [-r] command (-r is needed for directories and their contents)
+
+Then create .gitignore and list the directory name. Example of .gitignore contents:
+DirectoryName/
