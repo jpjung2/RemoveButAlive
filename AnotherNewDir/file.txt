@@ -1,5 +1,0 @@
-This is a file in a new directory. 
-
-I will commit this file and directory. 
-
-Then I want to remove the directory from tracking and remove from repo without deleting the directory or its contents
